@@ -1,0 +1,28 @@
+@media  (min-width:375px) and (max-width:768px) {
+    .menu{
+        display: none;
+    }
+     .content{
+                
+     }
+    .content h2{
+        font-size: 50px ;
+    }
+button{ 
+width: 150px;;
+}
+.design-div{
+    width: 100%;;
+}
+.row{
+    display: block;
+}
+.design-col{
+margin-bottom: 10px;;
+    
+}
+.office-col{
+margin-bottom: 10px;;
+
+}
+}
